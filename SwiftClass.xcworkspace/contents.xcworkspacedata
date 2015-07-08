@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:SwiftClassP2/SwiftClassP2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SwiftClassP1C2F14/SwiftClassP1C2F14.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SwiftClassP1C2F13/SwiftClassP1C2F13.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SwiftClassP1C2F12/SwiftClassP1C2F12.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SwiftClassP1C2F11/SwiftClassP1C2F11.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SwiftClassP1C2F10/SwiftClassP1C2F10.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SwiftClassP1C2F9/SwiftClassP1C2F9.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SwiftClassP1C2F8/SwiftClassP1C2F8.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SwiftClassP1C2F7/SwiftClassP1C2F7.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SwiftClassP1C2F6/SwiftClassP1C2F6.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SwiftClassP1C2F5/SwiftClassP1C2F5.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SwiftClassP1C2F4/SwiftClassP1C2F4.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SwiftClassP1C2F3/SwiftClassP1C2F3.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SwiftClassP1C2F2/SwiftClassP1C2F2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SwiftClassP1C2F1/SwiftClassP1C2F1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SwiftClassP1C1F6/SwiftClassP1C1F6.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SwiftClassP1C1F5/SwiftClassP1C1F5.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SwiftClassP1C1F4/SwiftClassP1C1F4.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SwiftClassP1C1F3/SwiftClassP1C1F3.xcodeproj">
+   </FileRef>
+</Workspace>
